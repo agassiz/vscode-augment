@@ -60,19 +60,11 @@ code --install-extension vscode-augment-0.509.1.vsix
 - 修复已知问题
 - **注意**：此修改版本有效期约为一周，请及时关注官方版本更新
 
-## 🤝 贡献指南
+## 📄 免责声明
 
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本仓库
-2. 创建您的功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+- 本扩展仅供学习和研究使用
+- 使用前请备份重要数据
+- 作者不承担因使用本扩展造成的任何损失
 
 ## 🐛 问题反馈
 
@@ -86,6 +78,26 @@ code --install-extension vscode-augment-0.509.1.vsix
 
 - GitHub Issues: [https://github.com/agassiz/vscode-augment/issues](https://github.com/agassiz/vscode-augment/issues)
 
+## 💖 支持作者
+
+如果这个插件对您有帮助，欢迎通过以下方式支持：
+
+### ⭐ GitHub Star
+给个 Star 支持一下！这是对作者最大的鼓励。
+
+### ☕ 赞赏支持
+如果您觉得这个插件为您节省了时间或提高了效率，欢迎请作者喝杯咖啡：
+
+<div align="center">
+  <img src="assets/wechat-reward.jpg" alt="微信赞赏码" width="200"/>
+  <p><em>微信扫码赞赏</em></p>
+</div>
+
+您的支持是作者持续改进和维护这个项目的动力！
+
 ---
 
-⭐ 如果这个插件对您有帮助，请给个 Star 支持一下！
+💡 **使用说明**：
+- ⭐ 如果这个插件对您有帮助，请给个 Star 支持一下！
+- 💬 有问题或建议请提交 Issue
+- ☕ 觉得有用的话，欢迎请作者喝杯咖啡
