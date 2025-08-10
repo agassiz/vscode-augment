@@ -269,6 +269,15 @@ code --install-extension vscode-augment-0.524.1.vsix
 #### 微信群 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; QQ群
 <img width="200" height="245" alt="微信群二维码" src="https://github.com/user-attachments/assets/ef30ac80-127d-4281-bab9-f25d5d45aeb0" /> &nbsp;&nbsp; <img width="200" height="245" alt="QQ群二维码" src="https://github.com/user-attachments/assets/b27d7949-a2a2-4f48-809f-ca0ca71a061e" />
 
+> **⚠️ QQ群申请说明**：
+>
+> 申请加入 QQ 群时，**请务必说明申请加群的理由**，例如：
+> - 使用插件遇到的具体问题
+> - 希望交流的技术话题
+> - 对项目的建议或反馈
+>
+> **不说明理由的申请将不予通过**，感谢理解与配合！
+
 ## 💖 支持作者
 
 如果这个插件对您有帮助，欢迎通过以下方式支持：
